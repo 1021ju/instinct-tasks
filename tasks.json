@@ -1,0 +1,2184 @@
+{
+  "retrievedAt": "2026-10-10T06:41:45.513627+00:00",
+  "source": "https://instincttasks.com/api/tasks",
+  "snapshot": "c7988f7b-e5d1-47cd-91a2-0cce59325b1e",
+  "protocolVersion": 1,
+  "items": [
+    {
+      "taskId": "instinct:airport-ride",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "096c4b25f31aab93ea0c7963",
+      "title": "Arrange an airport ride",
+      "summary": "Pickup time, ride options and total price, with a booking decision for you to approve.",
+      "category": "Travel",
+      "evidenceType": "official",
+      "url": "https://instincttasks.com/tasks/airport-ride/",
+      "sources": [
+        "https://instinct.com/"
+      ],
+      "publishedAt": "2026-09-15T09:01:12.412Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-handyman",
+      "brand": "instinct",
+      "version": 3,
+      "contentVersion": "aced9424ef86d63383276a48",
+      "title": "Find a handyman",
+      "summary": "A shortlist of local handymen with availability, quotes and the proposed repair scope.",
+      "category": "Home",
+      "evidenceType": "official",
+      "url": "https://instincttasks.com/tasks/book-handyman/",
+      "sources": [
+        "https://instinct.com/"
+      ],
+      "publishedAt": "2026-09-15T09:01:12.412Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:dropped-threads",
+      "brand": "instinct",
+      "version": 3,
+      "contentVersion": "52288e993a1f9d7e300788dc",
+      "title": "Pick up a dropped thread",
+      "summary": "A summary of unresolved points and a follow-up draft for your review.",
+      "category": "Work",
+      "evidenceType": "official",
+      "url": "https://instincttasks.com/tasks/dropped-threads/",
+      "sources": [
+        "https://instinct.com/"
+      ],
+      "publishedAt": "2026-09-15T09:01:12.412Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:subscription-audit",
+      "brand": "instinct",
+      "version": 4,
+      "contentVersion": "7dee5c8724f96b3a59bb8ec8",
+      "title": "Find forgotten subscriptions",
+      "summary": "A list of recurring subscriptions, upcoming renewals and charges to review.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/subscription-audit/",
+      "sources": [
+        "https://assistantbenchmark.com/agents/instinct"
+      ],
+      "publishedAt": "2026-09-20T06:52:49.613Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:restaurant-watch",
+      "brand": "instinct",
+      "version": 3,
+      "contentVersion": "4cbd82f08cd3998e5dfbc23c",
+      "title": "Watch for a dinner table",
+      "summary": "An alert when a table matches your date, party size and time window.",
+      "category": "Food",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/restaurant-watch/",
+      "sources": [
+        "https://assistantbenchmark.com/agents/instinct"
+      ],
+      "publishedAt": "2026-09-20T06:52:49.613Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:product-price-check",
+      "brand": "instinct",
+      "version": 3,
+      "contentVersion": "5da25025abcf1a69380a9fb5",
+      "title": "Find the delivered price",
+      "summary": "A comparison of in-stock options including item price, shipping and available discounts.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/product-price-check/",
+      "sources": [
+        "https://assistantbenchmark.com/agents/instinct"
+      ],
+      "publishedAt": "2026-09-20T06:52:49.613Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:missing-miles",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "4b8c503298e28c24be7f6ba5",
+      "title": "Find missing airline miles",
+      "summary": "A list of past flights with missing mileage credit and the information needed to submit a claim.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/missing-miles/",
+      "sources": [
+        "https://assistantbenchmark.com/agents/instinct"
+      ],
+      "publishedAt": "2026-09-20T06:52:49.613Z",
+      "modifiedAt": "2026-09-20T06:52:49.613Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:morning-brief",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "dd64101f681a047b1308b134",
+      "title": "Make a morning brief",
+      "summary": "A concise digest of today's calendar, unanswered messages and items needing a decision.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/morning-brief/",
+      "sources": [
+        "https://assistantbenchmark.com/agents/instinct/evidence/instinct-2026-09-11-bdc825"
+      ],
+      "publishedAt": "2026-09-16T09:38:23.646Z",
+      "modifiedAt": "2026-09-16T09:38:23.646Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:remove-contact-info",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "0f8da03161e2d91ebaed6fa2",
+      "title": "Remove contact info from websites",
+      "summary": "A reviewed list of exposed contact details, removal requests and unresolved listings.",
+      "category": "Privacy",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/remove-contact-info/",
+      "sources": [
+        "https://www.reddit.com/r/AI_Agents/comments/1wak4is/ive_been_stresstesting_instinct_with_reallife/p8vqb5i/"
+      ],
+      "publishedAt": "2026-09-16T11:12:59.458Z",
+      "modifiedAt": "2026-09-16T11:12:59.458Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:phone-only-booking",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "09324ad44f13b03818d7e66b",
+      "title": "Have it call a place that only books by phone",
+      "summary": "A record of what the business said on the call, and whatever you then authorize.",
+      "category": "Home",
+      "evidenceType": "official",
+      "url": "https://instincttasks.com/tasks/phone-only-booking/",
+      "sources": [
+        "https://x.com/noahrshinn/status/2100262985491231101"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:lower-internet-bill",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "faf8471b471fee7779f90206",
+      "title": "Lower your internet bill",
+      "summary": "A lower quoted rate on the same service, or a number and a script for you to finish the call, with any offer checked by you before it is accepted.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/lower-internet-bill/",
+      "sources": [
+        "https://x.com/rohinip/status/2090191626052460669"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:chase-a-missing-refund",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "747c0f4b3262611d62752776",
+      "title": "Chase a refund that never arrived",
+      "summary": "A traced refund with its reference number, a record of who was contacted and what each said, and either the credit confirmed or a clear next step.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/chase-a-missing-refund/",
+      "sources": [
+        "https://x.com/kingofknowwhere/status/2101267948631629843"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:in-network-doctor",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "e0b951fa4d4027b85c6f62c9",
+      "title": "Find a doctor who takes your insurance",
+      "summary": "A short list of providers your plan lists as in network, with reviews and booking routes, and intake forms pre-filled for you to check before anything is submitted.",
+      "category": "Health",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/in-network-doctor/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:earlier-doctor-appointment",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "17aeae24e7f1a58293dd97cb",
+      "title": "Get an earlier appointment with your doctor",
+      "summary": "An earlier appointment you have accepted, or a standing request with the office, with your original booking kept until the new one is confirmed.",
+      "category": "Health",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/earlier-doctor-appointment/",
+      "sources": [
+        "https://x.com/jbahrdestefano/status/2090847345055268899"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:waive-bank-fee",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "df6c4d565d9006a1a183e72d",
+      "title": "Get a bank fee reversed",
+      "summary": "A clear, sent request for the fee to be reversed, and a record of the bank's reply, whether it agrees or not.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/waive-bank-fee/",
+      "sources": [
+        "https://x.com/vikas_revivo/status/2101530612792230029"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:leaked-api-key-bill",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "ac456ea9bb7f89d2d86ea354",
+      "title": "Dispute a cloud bill after a leaked API key",
+      "summary": "The abused key identified and the unusual usage documented, a dispute sent with that evidence after your approval, and the provider's reply on record.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/leaked-api-key-bill/",
+      "sources": [
+        "https://x.com/os7borne/status/2095574518169468946"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:cancel-subscribe-and-save",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "a9cae906b7ab1c04d402a6fe",
+      "title": "Cancel Amazon Subscribe and Save",
+      "summary": "A list of your Subscribe and Save items with next delivery dates, the ones you chose cancelled, and a confirmation for each.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/cancel-subscribe-and-save/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:use-airline-credit",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "444182aafe004e189bbf61a1",
+      "title": "Use airline credit before it expires",
+      "summary": "A list of the airline credit you hold with amounts and expiry dates, and a booking that uses it, confirmed by you, with the credit shown on the final receipt.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/use-airline-credit/",
+      "sources": [
+        "https://x.com/srcasm/status/2088967631256637509"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:service-animal-form",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "0ba1d153a24138415484805d",
+      "title": "Submit a service animal form before a flight",
+      "summary": "The airline's own submission route found, the form submitted from your completed paperwork after you check it, and the booking showing it as received.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/service-animal-form/",
+      "sources": [
+        "https://x.com/MichaelLevin/status/2094462408995614956"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:pay-old-fines",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "cbd1f86374495c147fdfa92f",
+      "title": "Pay an old toll or traffic fine",
+      "summary": "Every outstanding item for the notice or plate listed from the agency's own site, and each one paid only after you approve the amount and payee.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/pay-old-fines/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:bulk-unsubscribe",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "20ea4a29cab89a1b2532541d",
+      "title": "Unsubscribe from marketing emails in bulk",
+      "summary": "A reviewed list of bulk senders grouped by risk, with only the groups you approved unsubscribed and the rest left for you.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/bulk-unsubscribe/",
+      "sources": [
+        "https://x.com/James_Astor/status/2101275949190787379"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:find-forgotten-money",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "8971cabf626edb7e29d9bb45",
+      "title": "Find money you forgot you were owed",
+      "summary": "A list of possible money owed or unused, each tied to the email it came from, with the claim step and any deadline.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/find-forgotten-money/",
+      "sources": [
+        "https://x.com/mvanhorn/status/2099265340018729169"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:link-airline-bookings",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "fc8998fcdaf4696ba820f905",
+      "title": "Link two airline bookings on the same flight",
+      "summary": "Both airline bookings linked by the airline, with its own wording on what that means, and any seat, fare or fee change brought to you first.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/link-airline-bookings/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:sold-out-movie-seats",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "3d3a2dab8a7c054896ec87c4",
+      "title": "Get seats for a sold-out screening",
+      "summary": "Seats booked within the limits you set in advance, or a note of what came up and why it was passed over.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/sold-out-movie-seats/",
+      "sources": [
+        "https://x.com/kushalbyatnal/status/2093447342921830702"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:hard-to-book-tee-time",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "a2f057ec08396e994e90b292",
+      "title": "Book a hard-to-get golf tee time",
+      "summary": "A tee time within your dates and limits, booked with your approval, and a log of how often the course was checked.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/hard-to-book-tee-time/",
+      "sources": [
+        "https://x.com/milliemyang/status/2100323121979129959"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:dmv-appointment",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "2bd7d3d0721c91086c3b8a7b",
+      "title": "Book a DMV appointment",
+      "summary": "An appointment of the right type at an office you can reach, confirmed by the state's own system, with the document list for that service.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/dmv-appointment/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:overseas-vendors",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "572208eebaa630f946c7a2af",
+      "title": "Compare vendors in another time zone",
+      "summary": "A side-by-side comparison of vendor answers and quotes gathered while you sleep, with the choice, price and order left to you.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/overseas-vendors/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:group-chat-to-spreadsheet",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "89159d00a81fb93c4b776d69",
+      "title": "Turn a group chat into a spreadsheet",
+      "summary": "One table built from the chat, with each person's details, the message it came from and anything missing flagged.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/group-chat-to-spreadsheet/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-trip-activities",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "8b9e3baec341005dd6d5acbe",
+      "title": "Book trip activities before you arrive",
+      "summary": "A shortlist of activities with times and costs, bookings made only where you said yes, and each one on your calendar with its terms.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-trip-activities/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:train-and-hotel-whatsapp",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "9782c92cd03791892e462901",
+      "title": "Book trains and hotels over WhatsApp",
+      "summary": "Train and hotel options with times and total prices in your chat, bookings made only on your approval, and tickets saved where you can reach them.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/train-and-hotel-whatsapp/",
+      "sources": [
+        "https://x.com/AlanJLSmith/status/2099459433218625638"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:long-stay-discount",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "a823e8e52640bc8f665cb046",
+      "title": "Negotiate a discount on a long stay",
+      "summary": "A shortlist of rentals for your dates, hosts' replies to a request for a lower rate, and a booking made only on your approval.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/long-stay-discount/",
+      "sources": [
+        "https://x.com/sparsh_17/status/2101041449525809202"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:flight-check-in",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "9d7d3e210a761e39faddfcb6",
+      "title": "Check in for a flight the moment it opens",
+      "summary": "Checked in when the window opens, boarding passes in your hands, and delays or gate news passed on, with you ready to do it yourself if it does not happen.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/flight-check-in/",
+      "sources": [
+        "https://x.com/MichaelLevin/status/2094462408995614956"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:better-seat-after-change",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "a3b6bcdaed0e3d2961e60cca",
+      "title": "Get a better seat after a flight change",
+      "summary": "Your seats after a schedule change checked against the seat map, a better seat taken where it is free or approved, and the new seat confirmed on the booking.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/better-seat-after-change/",
+      "sources": [
+        "https://x.com/ItsAlexStarr/status/2098582871015674104"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:group-dinner-rsvps",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "2bb88710618927d104ca0746",
+      "title": "Organize a group dinner and chase RSVPs",
+      "summary": "A booked venue on terms you approved, one clear details message to guests, and an attendance list kept up to date.",
+      "category": "Food",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/group-dinner-rsvps/",
+      "sources": [
+        "https://x.com/DavidPawlan/status/2099662829628293217"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:screen-household-help",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "5bea4cbc0eec5c523a72f247",
+      "title": "Screen candidates for household help",
+      "summary": "A short list against your criteria with reasons, calls booked with the people you chose, and declines sent in words you approved.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/screen-household-help/",
+      "sources": [
+        "https://x.com/thisiskp_/status/2096969252947530022"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:renovation-samples",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "129099cb18c6cdf821ca2758",
+      "title": "Order samples for a renovation",
+      "summary": "An item list for the room with links and prices, samples ordered for the items you approved, and a record of what is arriving from where.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/renovation-samples/",
+      "sources": [
+        "https://x.com/TheHolyKau/status/2094703675306328522"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:buy-from-private-sellers",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "63baea03a53cdd8f2a48b9e4",
+      "title": "Buy a vintage watch from private sellers",
+      "summary": "A short list of listings with seller answers side by side, and a purchase made only when you approve it, on a payment method with buyer protection.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/buy-from-private-sellers/",
+      "sources": [
+        "https://x.com/TheHolyKau/status/2094703675306328522"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:data-access-request",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "fa820f5bbe99a0b34fa0eb72",
+      "title": "Submit a data access request",
+      "summary": "A completed request form, sent through the company's own channel after you approve it, with a dated record of what was sent.",
+      "category": "Privacy",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/data-access-request/",
+      "sources": [
+        "https://x.com/aliceisplaying/status/2096231408041590868"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:change-address-everywhere",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "240ea0cdb4f1d9b2376b717b",
+      "title": "Update your address across accounts",
+      "summary": "A list of accounts holding your old address, each marked changed, left for you, or needing another route, with a confirmation for every change made.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/change-address-everywhere/",
+      "sources": [
+        "https://x.com/aliceisplaying/status/2096231408041590868"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:clear-an-admin-backlog",
+      "brand": "instinct",
+      "version": 3,
+      "contentVersion": "9b13f92b1b790de75c12ce76",
+      "title": "Clear a backlog of life admin",
+      "summary": "One list of the admin sitting in your inbox, each item with its first small step, any deadline and a status, plus a routine for checking replies.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/clear-an-admin-backlog/",
+      "sources": [
+        "https://x.com/aliceisplaying/status/2096231408041590868"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:find-an-apartment",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "adc6efda1c1c88b04b22f901",
+      "title": "Find an apartment and contact agents",
+      "summary": "A shortlist of listings that meet your criteria, messages to agents sent only with your approval, and a log of replies, with no money paid and nothing signed.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/find-an-apartment/",
+      "sources": [
+        "https://x.com/aliceisplaying/status/2096231408041590868"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:registration-renewal-reminder",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "3e464be48f8edc5f3067576b",
+      "title": "Get reminded before a registration renewal",
+      "summary": "The renewal date, any requirement that has to come first, and a reminder early enough to meet both, each checked against the official source.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/registration-renewal-reminder/",
+      "sources": [
+        "https://x.com/thisiskp_/status/2094402725672886471"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:school-lunch-menu",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "de8e052e9b38b5c93f6b8e2a",
+      "title": "Get the school lunch menu every day",
+      "summary": "A short message each school evening with the next day's lunch menu from the school's own source, and a plain note when no menu is posted.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/school-lunch-menu/",
+      "sources": [
+        "https://x.com/thisiskp_/status/2094402725672886471"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:appliance-repair",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "54b77591d9c0e093955ad9cc",
+      "title": "Book an appliance repair",
+      "summary": "A service request booked through the manufacturer's own channel, with the reference, the visit window and anything said about charges recorded.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/appliance-repair/",
+      "sources": [
+        "https://x.com/virtuallysarvad/status/2101262023963340803"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:reschedule-appointment",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "2e99af478006219ce1769bb8",
+      "title": "Reschedule a booking or appointment",
+      "summary": "The booking moved to the new time, confirmed by the business, with the time zone stated and the old slot released.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/reschedule-appointment/",
+      "sources": [
+        "https://x.com/sytaylor/status/2094346674911035447"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:send-a-gift-remotely",
+      "brand": "instinct",
+      "version": 2,
+      "contentVersion": "337bbaa1addf1dbc3a11dcdf",
+      "title": "Send a gift when you cannot be there",
+      "summary": "A present you chose from a short list, ordered within budget, with a confirmation showing the right address and a delivery date before the occasion.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/send-a-gift-remotely/",
+      "sources": [
+        "https://x.com/NotZainAgain/status/2097150500038725895"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-10-10T03:51:55.375Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:do-not-call-registry",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "7f2f4f53bfc70e4a0cd9e6a0",
+      "title": "Sign up for the Do Not Call registry",
+      "summary": "Your number registered on the official list for your country, the email confirmation completed, and a record of the date and what the registry says to expect.",
+      "category": "Privacy",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/do-not-call-registry/",
+      "sources": [
+        "https://x.com/inakib/status/2101590699992875458"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:spam-folder-check",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "51a515fab454412e951ff304",
+      "title": "Catch important emails in spam",
+      "summary": "A short note listing messages in spam that may need your action, each with sender, subject and why it was flagged, with nothing clicked or acted on.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/spam-folder-check/",
+      "sources": [
+        "https://x.com/danywander/status/2101602928129609773"
+      ],
+      "publishedAt": "2026-09-24T09:53:21.311Z",
+      "modifiedAt": "2026-09-24T09:53:21.311Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:account-support-email",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "6eabdb7ef8a3e4a2f1f2e4d0",
+      "title": "Draft an account support email",
+      "summary": "A user-reviewed support-email draft and a summary of the company’s reply, with no account change assumed.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/account-support-email/",
+      "sources": [
+        "https://x.com/drjimbokennedy/status/2105961844255137865"
+      ],
+      "publishedAt": "2026-10-08T04:22:33.313Z",
+      "modifiedAt": "2026-10-08T04:22:33.313Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:compare-garage-door-quotes",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "e76df7fb64ff0ce772bca28c",
+      "title": "Compare garage door opener quotes",
+      "summary": "A side-by-side comparison of the existing quote and any responses, with email drafts and a decision about the work left to you.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/compare-garage-door-quotes/",
+      "sources": [
+        "https://x.com/sanjivvmore/status/2107958375829168274"
+      ],
+      "publishedAt": "2026-10-08T05:08:24.353Z",
+      "modifiedAt": "2026-10-08T05:08:24.353Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:land-planning-meeting-brief",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "45894b438d11007f20170325",
+      "title": "Prepare a land planning meeting",
+      "summary": "A parcel-reference brief, planning questions and reviewed appointment or outreach drafts—not a development approval or investment recommendation.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/land-planning-meeting-brief/",
+      "sources": [
+        "https://x.com/rahulkunwarX/status/2107997824512323658"
+      ],
+      "publishedAt": "2026-10-08T08:40:21.627Z",
+      "modifiedAt": "2026-10-08T08:40:21.627Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:amazon-receipt-change-check",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "2fcce8d0d45cab2ae0c7e3f2",
+      "title": "Check when order emails changed",
+      "summary": "A dated comparison of receipt formats with a supported change window and unanswered questions.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/amazon-receipt-change-check/",
+      "sources": [
+        "https://x.com/Colinbehr/status/2107865244500734129"
+      ],
+      "publishedAt": "2026-10-08T08:40:21.627Z",
+      "modifiedAt": "2026-10-08T08:40:21.627Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:senior-meal-delivery-setup",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "af1b8e2dfb21f6ba09216427",
+      "title": "Set up meal delivery for a relative",
+      "summary": "A reviewed meal-provider shortlist and first-order plan with the relative’s preferences and explicit approval boundaries.",
+      "category": "Family",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/senior-meal-delivery-setup/",
+      "sources": [
+        "https://x.com/DDukes12/status/2107873303612285294"
+      ],
+      "publishedAt": "2026-10-08T08:40:21.627Z",
+      "modifiedAt": "2026-10-08T08:40:21.627Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:edit-ski-videos",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "61dca467cd54c4e0cc659389",
+      "title": "Edit home videos (music, noise removal, trimming)",
+      "summary": "One edited video with the requested music track, cleaned-up audio and the specified clips trimmed out.",
+      "category": "Creative",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/edit-ski-videos/",
+      "sources": [
+        "https://x.com/paularambles/status/2092763171228680621"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:find-ancestry-records",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "69fbe0359756e5c7cf111cd1",
+      "title": "Find family genealogy records",
+      "summary": "A family record located and cited back to the 1740s, found by reading through a large PDF source.",
+      "category": "Family",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/find-ancestry-records/",
+      "sources": [
+        "https://x.com/GuliMoreno/status/2100123851707326936"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:find-matching-swim-classes",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "811da03ed27185381f572a67",
+      "title": "Find swim classes that fit both kids' schedules",
+      "summary": "A shortlist of swim-class time slots where both kids can attend at once, or a clear note that none exist.",
+      "category": "Family",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/find-matching-swim-classes/",
+      "sources": [
+        "https://x.com/ramannoodlez/status/2093086116622840178"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:sign-kids-school-forms",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "41ee5296bd61e8c267a17a19",
+      "title": "Sign kids' permission forms",
+      "summary": "A completed school form — signed, converted to the right format if needed, and sent to the right recipient after your approval.",
+      "category": "Family",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/sign-kids-school-forms/",
+      "sources": [
+        "https://x.com/Claire/status/2090595324653883725"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:coordinate-friends-night-out",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "200bc3323142d35197b2ba2c",
+      "title": "Coordinate a friends night out",
+      "summary": "A confirmed plan — food/drinks ordered, a movie picked, timing synced across the group, and a calendar entry — built from everyone's stated availability and preferences.",
+      "category": "Food",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/coordinate-friends-night-out/",
+      "sources": [
+        "https://x.com/ethancole_ai/status/2099951040678465585"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:daily-coffee-preorder",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "8669296aa800b07afd3019d6",
+      "title": "Set up a daily coffee preorder",
+      "summary": "A standing daily coffee order placed automatically each morning and ready for pickup at a chosen nearby cafe.",
+      "category": "Food",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/daily-coffee-preorder/",
+      "sources": [
+        "https://x.com/pokharna_anushk/status/2096716235354280229"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:guide-brisket-smoking-cook",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "98a12de1ec9ee678d81cfbfa",
+      "title": "Guide a brisket smoking cook",
+      "summary": "Guidance through the stages of a long smoking cook — target temps, timing windows and checkpoints — for the specific meat and smoker named.",
+      "category": "Food",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/guide-brisket-smoking-cook/",
+      "sources": [
+        "https://x.com/capitaltruist/status/2100993937943224615"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:hard-to-get-restaurant-reservation",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "b5bff34e8aab8a6227b4493e",
+      "title": "Book a hard-to-get restaurant reservation",
+      "summary": "A confirmed table at a restaurant whose normal booking window is already full.",
+      "category": "Food",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/hard-to-get-restaurant-reservation/",
+      "sources": [
+        "https://x.com/jackybuilds/status/2093252656500240602"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:order-food-hubtel",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "b7e30f526727fe70383efca5",
+      "title": "Order food delivery through an app",
+      "summary": "A placed food delivery order, with the total and estimated arrival confirmed.",
+      "category": "Food",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/order-food-hubtel/",
+      "sources": [
+        "https://x.com/qrsyth/status/2096152907846385735"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-dentist-appointment",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "319f8c972dc500205122e68c",
+      "title": "Book a dentist appointment",
+      "summary": "A confirmed dentist appointment, with date, time and practice stated.",
+      "category": "Health",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-dentist-appointment/",
+      "sources": [
+        "https://x.com/alexsrawitz/status/2099496631154471000"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:out-of-network-reimbursement-forms",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "362cf9afa6a86fc2cdfdd845",
+      "title": "File out-of-network insurance reimbursement forms",
+      "summary": "A completed, submitted out-of-network reimbursement claim form, pending the insurer's own review.",
+      "category": "Health",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/out-of-network-reimbursement-forms/",
+      "sources": [
+        "https://x.com/Claire/status/2090595324653883725"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-haircut-appointment",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "a6e2a574a67f77cbe2543b27",
+      "title": "Book a haircut appointment",
+      "summary": "A confirmed haircut appointment or queue slot, with proof of booking.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-haircut-appointment/",
+      "sources": [
+        "https://x.com/charlieleg/status/2092459019923607615"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:check-power-outage-status",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "6424ac05e8f7f2b477f89b40",
+      "title": "Check local power outage status",
+      "summary": "A reported cause and expected restoration time for a local power outage, sourced from the utility or city.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/check-power-outage-status/",
+      "sources": [
+        "https://x.com/charlieleg/status/2092459019923607615"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:detect-water-leak",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "773bc12ae2e13c889f0dbbd2",
+      "title": "Catch a costly water leak",
+      "summary": "A flagged pattern in water usage or billing that suggests a leak, with the comparison shown.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/detect-water-leak/",
+      "sources": [
+        "https://x.com/austin_hurwitz/status/2103571728052167032"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:file-311-pothole-report",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "2a0271c38ba8c73bfbc17cf9",
+      "title": "File a 311 pothole report",
+      "summary": "A filed pothole report through the city's 311 system, with a confirmation or case number.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/file-311-pothole-report/",
+      "sources": [
+        "https://x.com/EliLanger/status/2108386389851083047"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:file-city-forms",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "83fb2f596f7a51a74c11e935",
+      "title": "File forms with the city",
+      "summary": "A completed, submitted city form, with a confirmation or reference number.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/file-city-forms/",
+      "sources": [
+        "https://x.com/capitaltruist/status/2100993937943224615"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:register-for-traffic-school",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "3f1a0e7372687b00ed3db8cc",
+      "title": "Register and pay for traffic school",
+      "summary": "A completed registration and payment for the course, with a confirmation and access details.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/register-for-traffic-school/",
+      "sources": [
+        "https://x.com/liveink/status/2095152011540885642"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:run-personal-dashboard",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "3226b34b0866c0fafc169f1b",
+      "title": "Run a personal task dashboard app",
+      "summary": "A tracker you already use kept running by Instinct instead of a browser tab, shown on a display you control.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/run-personal-dashboard/",
+      "sources": [
+        "https://x.com/karolina_dubiel/status/2101766871330746422"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:yard-waste-disposal-info",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "e49bee2e3a6f37a6d9f276e6",
+      "title": "Find yard waste disposal rules",
+      "summary": "The local disposal rule for your address, and a specific bin ordered only after you approve it.",
+      "category": "Home",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/yard-waste-disposal-info/",
+      "sources": [
+        "https://x.com/Zboozee/status/2105692496869118079"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:daily-content-digest",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "5fdb8bac9f1748ff4eb7442c",
+      "title": "Get a daily content digest",
+      "summary": "A short daily list of posts similar to what you've already bookmarked or liked.",
+      "category": "Learning",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/daily-content-digest/",
+      "sources": [
+        "https://x.com/lilfuwa/status/2096681871430271252"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:activate-credit-card-perks",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "58452e0fef5a99b0ad6131fb",
+      "title": "Activate your free credit card perks",
+      "summary": "Any no-cost perks or offers on your cards switched on, without anything requiring a purchase touched.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/activate-credit-card-perks/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:cancel-subscription-negotiation",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "3dda57f6d649eb3f5615989d",
+      "title": "Cancel a subscription through your agent",
+      "summary": "A subscription cancelled with the provider, with any back-and-forth handled on your behalf.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/cancel-subscription-negotiation/",
+      "sources": [
+        "https://x.com/cynthiamcgillis/status/2106595551370469652"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:compare-car-insurance-quotes",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "5bccedf2fa72ceb9b51a6555",
+      "title": "Compare car insurance quotes",
+      "summary": "A comparison against your current policy, which may turn up savings or may confirm you already have the best rate.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/compare-car-insurance-quotes/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:replace-lost-card",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "19f02922f31a819fd8ff4b9f",
+      "title": "Cancel a lost card and order a replacement",
+      "summary": "The lost card cancelled and a replacement ordered, with any obviously unauthorized or unused charges flagged.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/replace-lost-card/",
+      "sources": [
+        "https://x.com/kamilrextin/status/2098874145044107766"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:send-an-invoice",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "8aad9dbe96d46a1e9d65bfd2",
+      "title": "Send an invoice",
+      "summary": "An invoice drafted with the details you give and sent to the recipient.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/send-an-invoice/",
+      "sources": [
+        "https://x.com/Arf_22/status/2106375307217281440"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:shop-homeowners-insurance",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "1dd7b7d8e36644f19e026cab",
+      "title": "Shop for home insurance quotes",
+      "summary": "A set of competing quotes compared against your current policy, for you to decide on.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/shop-homeowners-insurance/",
+      "sources": [
+        "https://x.com/anothercohen/status/2091221243538424096"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:track-cashback-offer",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "72e275c7f46adb707b7c1a6a",
+      "title": "Track a bank's cashback offer",
+      "summary": "A standing watch on a cashback program's bonus rate, with a note when it rises.",
+      "category": "Money",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/track-cashback-offer/",
+      "sources": [
+        "https://x.com/AyushAggarwal94/status/2104100671511556599"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:handle-instagram-spam-attack",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "febfe0deddcee98c24c60a93",
+      "title": "Handle a social media spam attack",
+      "summary": "Comments turned off, every spam account reported and blocked, and an FBI/IC3 complaint drafted and sent, without the user going through the flood comment by comment.",
+      "category": "Privacy",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/handle-instagram-spam-attack/",
+      "sources": [
+        "https://x.com/raroque/status/2096117273610109040"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:verify-suspicious-dm-scam",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "d000c5df2cca5bee953844c4",
+      "title": "Verify a suspicious DM is a scam",
+      "summary": "A list of identity red flags — no matching reporter, a recently purchased verification badge, a location mismatch, and a tracking link — instead of a single yes/no verdict.",
+      "category": "Privacy",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/verify-suspicious-dm-scam/",
+      "sources": [
+        "https://x.com/IguanaXYZ/status/2107200484432052423"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:amazon-price-drop-refund",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "d323b811dda7ee5efbd3d8e8",
+      "title": "Get Amazon refunds for price drops",
+      "summary": "A list of past purchases where the price has since dropped, with refund requests filed through Amazon support for the difference.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/amazon-price-drop-refund/",
+      "sources": [
+        "https://x.com/big_duca/status/2097182550129037721"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-concert-tickets",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "ab110d507a56d4dff443371e",
+      "title": "Book concert tickets fast",
+      "summary": "Tickets found and booked without the user actively searching, confirmed in the middle of an unrelated conversation.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-concert-tickets/",
+      "sources": [
+        "https://x.com/John_PiazzaIV/status/2094067105578553614"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-local-tour",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "bad2b2e1acc9ab9c5f2a0f6a",
+      "title": "Book a tour or local activity",
+      "summary": "A tour or activity found and booked at a time that fits your calendar, without you comparing options yourself.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-local-tour/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:buy-book-on-amazon",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "95ff689ad58a24d8af1486db",
+      "title": "Buy a book on Amazon through chat",
+      "summary": "The book ordered on Amazon and delivered the next day, without opening the Amazon app or site.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/buy-book-on-amazon/",
+      "sources": [
+        "https://x.com/nicbstme/status/2090600496574976315"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:find-liquidation-auction-contacts",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "e117e8b0b780eb70cacc450b",
+      "title": "Find and contact liquidation auction sellers",
+      "summary": "A list of local liquidation/auction contacts, with outreach already sent and some responses back.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/find-liquidation-auction-contacts/",
+      "sources": [
+        "https://x.com/ShamsETubriz/status/2102919871704993902"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:find-lost-order",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "0fb137e54f2ad49f2968529e",
+      "title": "Find a lost order you can't remember",
+      "summary": "The forgotten order found — company, order number, and why it's stuck — with a refund-complaint email drafted and sent.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/find-lost-order/",
+      "sources": [
+        "https://x.com/CryptoMikli/status/2102060924404134190"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:find-working-discount-code",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "9187336c46774fccf3d7e5c3",
+      "title": "Find a working discount code",
+      "summary": "One confirmed working code, found by testing tens of thousands of variations built from past codes' patterns.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/find-working-discount-code/",
+      "sources": [
+        "https://x.com/vedhsaka/status/2096683840446119942"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:list-phone-for-resale",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "ed941e417203f9b0272db961",
+      "title": "List a used phone for resale",
+      "summary": "A resale estimate and a ready-to-post listing, in place of a lower trade-in offer.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/list-phone-for-resale/",
+      "sources": [
+        "https://x.com/1mustafasyed/status/2107101022229274884"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:online-item-return",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "34b260ed9c4133f017dd610a",
+      "title": "Handle an online item return",
+      "summary": "A filed return for the right item, plus a drop-off code ready to show at the counter.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/online-item-return/",
+      "sources": [
+        "https://x.com/rowlsmanthorpe/status/2106089420235616336"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:order-birthday-balloons",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "caa0849b25be878aaf60d56c",
+      "title": "Order birthday balloons as a surprise",
+      "summary": "Birthday balloons ordered and arranged for a surprise, without the user having to find a local shop.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/order-birthday-balloons/",
+      "sources": [
+        "https://x.com/MichaelLevin/status/2093733119052468546"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:order-from-instagram-photo",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "c980d43b363bb6003160ec68",
+      "title": "Order items from an Instagram photo",
+      "summary": "Items identified from Instagram photos located and ordered, based on voice-note context, repeated across multiple photos.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/order-from-instagram-photo/",
+      "sources": [
+        "https://x.com/Claire/status/2090595324653883725"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:order-ipad-easel",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "5e59805581352c4e05e31224",
+      "title": "Order an iPad easel stand",
+      "summary": "An accessory ordered and delivered without a specific request, judged afterward as a good purchase.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/order-ipad-easel/",
+      "sources": [
+        "https://x.com/DylanBishopX/status/2107692946216866211"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:order-pottery-glazes",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "4f2174b4bdf8552854856f30",
+      "title": "Order pottery glazes with recommendations",
+      "summary": "Glaze pairing suggestions turned into an order, without the user researching combinations themselves.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/order-pottery-glazes/",
+      "sources": [
+        "https://x.com/Claire/status/2090595324653883725"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:order-skincare-voice",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "92164cbd01ee52fb2cc74cdb",
+      "title": "Order skincare products by voice",
+      "summary": "Skincare products ordered and delivered from a spoken request, without visiting a site or checking out manually.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/order-skincare-voice/",
+      "sources": [
+        "https://x.com/Rockerboy___/status/2104552703581950037"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:reorder-forgotten-purchase",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "d172c8f4ade0ab1da650291f",
+      "title": "Reorder something you forgot where you bought",
+      "summary": "The original source of a forgotten purchase identified, and the item reordered.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/reorder-forgotten-purchase/",
+      "sources": [
+        "https://x.com/Claire/status/2090595324653883725"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:reorder-supplements",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "1072d5285fb16add34658c86",
+      "title": "Reorder supplements automatically",
+      "summary": "Supplements reordered from the usual retailer, without the user placing the order themselves.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/reorder-supplements/",
+      "sources": [
+        "https://x.com/larryvc/status/2106364750086967728"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:track-rare-book-listing",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "1b0752e18b7057d10d31f42a",
+      "title": "Track a rare book listing for a price drop",
+      "summary": "An alert naming a qualifying listing's price and seller, for you to verify before buying.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/track-rare-book-listing/",
+      "sources": [
+        "https://x.com/ajwaxman/status/2095699236750868790"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:warranty-claim-manufacturer",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "126abcff7237c9b007aec5ad",
+      "title": "File a warranty claim directly with the manufacturer",
+      "summary": "A refund from the manufacturer, obtained by emailing them directly after the retailer's support channel was a dead end.",
+      "category": "Shopping",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/warranty-claim-manufacturer/",
+      "sources": [
+        "https://x.com/meerasapra/status/2102212819278278710"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-a-hotel",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "4111fee6709c6e6f2016f720",
+      "title": "Book a hotel with an agentic payment",
+      "summary": "A hotel booking completed and paid for with a linked payment method, without the author manually checking out.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-a-hotel/",
+      "sources": [
+        "https://x.com/GuliMoreno/status/2096717150157222151"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-airport-layover-hotel",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "773f1968b39975870ae0d963",
+      "title": "Book a cheap airport layover hotel",
+      "summary": "A booked hotel near the layover airport, selected for price, with a stated total cost.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-airport-layover-hotel/",
+      "sources": [
+        "https://x.com/Antony_l1/status/2099307468094382587"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-family-flights-hotel",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "af9e3d0bf9e12dd9fac04653",
+      "title": "Book family flights and a hotel",
+      "summary": "Flights and a hotel booked for the family, completed without the author's direct involvement during the booking window.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-family-flights-hotel/",
+      "sources": [
+        "https://x.com/srcasm/status/2090529583908921588"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-flights-solo-trip",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "e4405329840630deebc327f1",
+      "title": "Book flights for a solo trip",
+      "summary": "Flights booked for a solo multi-stop trip, as one part of several travel tasks handled together.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-flights-solo-trip/",
+      "sources": [
+        "https://x.com/Antony_l1/status/2099307468094382587"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-multi-city-trip-points-deal",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "6cf2dfffaacbe8b54797e850",
+      "title": "Book a multi-city trip and catch points deals",
+      "summary": "A multi-city itinerary booked, with a points-based deal applied that the author says they would have missed manually.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-multi-city-trip-points-deal/",
+      "sources": [
+        "https://x.com/vinidlidoo/status/2108377931550785855"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:book-rental-car",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "d89a16bd1d844a12c176fa09",
+      "title": "Research and book a rental car",
+      "summary": "A rental car researched and booked, as one line in a larger list of completed tasks.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/book-rental-car/",
+      "sources": [
+        "https://x.com/Claire/status/2090595324653883725"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:check-rental-insurance-coverage",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "7414957a419b866e833a811f",
+      "title": "Check if insurance covers a rental breakdown",
+      "summary": "A clear answer on whether an existing insurance policy covers breakdown while driving a rental, checked before it mattered.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/check-rental-insurance-coverage/",
+      "sources": [
+        "https://x.com/beglen/status/2107179737546375260"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:find-cheap-flight",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "5be099e1d3f3d6ff8c183471",
+      "title": "Find a flight below expected price",
+      "summary": "A flight found and booked at roughly half the price the author expected to pay.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/find-cheap-flight/",
+      "sources": [
+        "https://x.com/FrancisPSantora/status/2105656942119080112"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:find-nearby-brewery",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "0c5e023b2225c0926009e5ea",
+      "title": "Find what's walkable near a hotel",
+      "summary": "A short list of walkable spots near the hotel, with one recommendation to start.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/find-nearby-brewery/",
+      "sources": [
+        "https://x.com/beglen/status/2107179737546375260"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:fix-inflight-wifi-miles-charge",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "d2108a30bf6e87573495c078",
+      "title": "Fix an inflight WiFi miles charge",
+      "summary": "The missing loyalty account number located, and the WiFi billing issue taken up with the airline, with the resolution unspecified in the report.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/fix-inflight-wifi-miles-charge/",
+      "sources": [
+        "https://x.com/Echecrates/status/2107306472585515300"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:flight-day-info-brief",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "178db5826ee164520d371772",
+      "title": "Get a flight travel day info brief",
+      "summary": "A single message with the boarding pass, terminal and gate number, delivered on the travel day without you having to check separate apps.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/flight-day-info-brief/",
+      "sources": [
+        "https://x.com/snehabytes/status/2095246521491177818"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:flight-delay-early-warning",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "a01716c941c848db874d7e9d",
+      "title": "Get an early flight delay alert",
+      "summary": "A delay flag based on FAA data, potentially arriving before the airline's own notification, with no stated lead time or accuracy figure.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/flight-delay-early-warning/",
+      "sources": [
+        "https://x.com/larryvc/status/2106364750086967728"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:flight-delay-miles-compensation",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "66fb8c8e830b416354a92fd9",
+      "title": "Get flight delay compensation in miles",
+      "summary": "Miles credited to the user's account after a delay, reported at 10,000 miles in this case, with the request process itself unstated.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/flight-delay-miles-compensation/",
+      "sources": [
+        "https://x.com/gilgNYC/status/2098192568584400986"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:pick-sunset-hike",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "a38418c016e04fd7f76b889f",
+      "title": "Pick a sunset hike",
+      "summary": "A specific hike suggestion, picked to work with sunset timing near your current location.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/pick-sunset-hike/",
+      "sources": [
+        "https://x.com/beglen/status/2107179737546375260"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:renew-uk-visitor-visa",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "137d7d3e951becc7d6189d00",
+      "title": "Get guidance on renewing a UK visitor visa",
+      "summary": "A walk-through of the renewal process and documents as a checklist to work from — not a submitted application, and not a stated completion of the renewal.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/renew-uk-visitor-visa/",
+      "sources": [
+        "https://x.com/asemota/status/2106516320946696680"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:research-flight-change",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "eaf2f6d29676caa77abb4d5d",
+      "title": "Research options for a flight change",
+      "summary": "A laid-out set of options for changing an existing flight — fees, fares, alternatives — for you to decide between. Whether anything was actually booked is not stated in the source report.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/research-flight-change/",
+      "sources": [
+        "https://x.com/Claire/status/2090595324653883725"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:track-friends-flight-pickup",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "c229a54e35abc350c981203e",
+      "title": "Track a friend's flight for pickup",
+      "summary": "A terminal to meet an incoming friend at, based on tracking their flight. Whether this was rechecked closer to landing or held up on the day isn't stated.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/track-friends-flight-pickup/",
+      "sources": [
+        "https://x.com/beglen/status/2107179737546375260"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:traffic-alert-leave-early",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "7811708e9658584496608590",
+      "title": "Get a traffic alert before you need to leave",
+      "summary": "A heads-up to leave earlier than planned, based on real-time traffic, with no stated lead time or outcome in the report.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/traffic-alert-leave-early/",
+      "sources": [
+        "https://x.com/larryvc/status/2106364750086967728"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:trip-booking-with-visa",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "5552300c5ecce31fad582910",
+      "title": "Book a trip including visa application",
+      "summary": "A booked trip and a completed visa application, with the form and the booking reviewed by you before either is submitted or paid for.",
+      "category": "Travel",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/trip-booking-with-visa/",
+      "sources": [
+        "https://x.com/snehabytes/status/2095246521491177818"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:build-deploy-website",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "b450ce07ae4173e9be07f75b",
+      "title": "Build and deploy a website",
+      "summary": "A simple, live website built from content you supply, deployed to your own hosting account, with the page shown to you before it goes live.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/build-deploy-website/",
+      "sources": [
+        "https://x.com/thisiskp_/status/2091684996087959859"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:build-membership-business",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "d61d7c61f036c2ae3ea0aec4",
+      "title": "Build and launch a membership business",
+      "summary": "A branded site with payment set up, an outreach program that reaches potential partners, and a log of every message sent and every reply received, including anything resembling a legal notice.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/build-membership-business/",
+      "sources": [
+        "https://x.com/AWMontgomery/status/2107486835840847898"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:build-personal-crm",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "ae87946a46fe3cad2f6daea4",
+      "title": "Build a personal CRM for intros",
+      "summary": "A personal CRM you can query for a given ask, and a filtered, private contact list ready to send once you've reviewed it.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/build-personal-crm/",
+      "sources": [
+        "https://x.com/DavidPawlan/status/2101097833029902341"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:find-outreach-contacts",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "f4a84ba3d87a0fa58e32e430",
+      "title": "Find outreach contacts and draft messages",
+      "summary": "A list of found contacts, each with a personalized draft message ready for your review, sent only after you approve the wording.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/find-outreach-contacts/",
+      "sources": [
+        "https://x.com/purvaasays/status/2103018433390817484"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:get-email-confirmation-without-call",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "3f9be351de336af8887ba58d",
+      "title": "Get email confirmation without a call",
+      "summary": "A written email confirmation of how an account issue was resolved, obtained by having your agent work it out with the company's own support agent, without a phone call.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/get-email-confirmation-without-call/",
+      "sources": [
+        "https://x.com/codybrown/status/2093777718357942433"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:podcast-talking-points",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "6cae9a69487c59248dd0663f",
+      "title": "Get podcast talking points for appearances",
+      "summary": "A short list of possible talking points for your appearance, to review and pick from rather than read verbatim.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/podcast-talking-points/",
+      "sources": [
+        "https://x.com/pitdesi/status/2090579987778937159"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:process-email-inbox",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "e24a5e31cd5103396b6a0ba5",
+      "title": "Process and reply to an email inbox",
+      "summary": "An inbox worked through, with messages replied to or flagged, and the recipients and wording of any reply shown to you before sending, especially for reply-all.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/process-email-inbox/",
+      "sources": [
+        "https://x.com/NotZainAgain/status/2098541204333875319"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:research-esim-market",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "96e1b90e00d26d08c79de58a",
+      "title": "Research the eSIM market for opportunities",
+      "summary": "A summarized research report on the market you asked about, with sources you can check yourself, delivered in a conversational interface rather than a separate research tool.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/research-esim-market/",
+      "sources": [
+        "https://x.com/MacdevM/status/2107540394443686209"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    },
+    {
+      "taskId": "instinct:rsvp-relevant-events",
+      "brand": "instinct",
+      "version": 1,
+      "contentVersion": "89d7445f205bc06687e3bc4f",
+      "title": "Find and RSVP to relevant events",
+      "summary": "A shortlist of relevant events with RSVPs submitted on your behalf, where forms allow it.",
+      "category": "Work",
+      "evidenceType": "user-report",
+      "url": "https://instincttasks.com/tasks/rsvp-relevant-events/",
+      "sources": [
+        "https://x.com/rebekaflows/status/2106497226755526829"
+      ],
+      "publishedAt": "2026-10-09T12:06:18.960Z",
+      "modifiedAt": "2026-10-09T12:06:18.960Z",
+      "withdrawn": false
+    }
+  ]
+}
